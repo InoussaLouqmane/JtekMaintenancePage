@@ -17,18 +17,35 @@
 <body>
 
     <main>
+        <div>
 
-        <div >
-            <img src="./assets/img/logos/logo-blanc.png" class="img-fluid" alt="Logo de JTEK Solutions">
-            <p class="maintenance-text">Site en cours de maintenance</p>
+            <div>
+                <img src="./assets/img/logos/logo-blanc.png" class="img-fluid" alt="Logo de JTEK Solutions">
+                <h1 class="text-center"> Site en cours de maintenance</h1>
+
+                <p class="maintenance-text col-9 col-md-7 text-center">Nous serons de retour sous peu. Merci pour votre
+                    patience.
+                    Pour toute question, veuillez nous contacter :
+                </p>
+            </div>
+
+            <div class="contact-info">
+                <p><img class="phone-icon" src="./assets/img/phone.png" alt="mail" />(+229) 67 35 49 27</p>
+
+                <button> <a
+                        href="mailto:contact@jtek-solutions.com">Contactez-nous</a> <img class="send-icon" src="./assets/img/send2.png" alt=""> </button>
+
+            </div>
         </div>
-
-
 
     </main>
-    <div class="position-absolute bottom-0 start-0 p-0">
-          <img src="./assets/img/pattern.png" alt="">
-        </div>
+
+
+
+
+    <div class="">
+        <img class="image-deco" src="./assets/img/pattern.png" alt="">
+    </div>
 </body>
 
 </html>
