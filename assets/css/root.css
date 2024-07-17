@@ -1,0 +1,41 @@
+:root{
+
+  /* colors */
+  --jk-primary: #002D62;
+  --jk-secondary: #F4911E;
+  --jk-gray-light: #F5F5F5;
+  --jk-gray-dark: #B1ADAD;
+  --jk-primary-light: #F7FAFF;
+  --jk-blue: #418FDE;
+  --jk-black: #000000;
+  --jk-white: #ffffff;
+
+
+  /* hover colors*/
+  --jk-hover-primary: #003B7E;
+  --jk-hover-secondary: #F4880C;
+
+  /*gradients*/
+
+  --jk-primary-gradient: linear-gradient(0deg, rgba(0, 0, 0, 0.27) 0%, rgba(0, 0, 0, 0.27) 100%), linear-gradient(90deg, #002D62 0.53%, #3B5574 124.84%, rgba(0, 0, 0, 0.00) 165.29%, #6B7683 165.31%, rgba(139, 140, 141, 0.35) 165.33%);
+  --jk-gray-gradient:rgba(0, 0, 0, 0.27);
+
+
+  /* socials*/
+  --jk-linkedin: #0E76A8;
+  --jk-facebook: #315DF7;
+  --jk-twitter: #00ACEE;
+  --jk-whatsapp: #25D366;
+
+
+
+  /* font-family */
+
+  --jk-ff-regular: "Montserrat-Regular",sans-serif;
+  --jk-ff-bold: "Montserrat-Bold", sans-serif ;
+  --jk-ff-semiBold: "Montserrat-SemiBold", sans-serif;
+  --jk-ff-light: "Montserrat-Light",sans-serif;
+  --jk-ff-medium:"Montserrat-Medium", sans-serif ;
+
+
+}

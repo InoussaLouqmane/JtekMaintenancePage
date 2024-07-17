@@ -1,0 +1,30 @@
+.nav-tabs .nav-link {
+  border: 1px solid var(--jk-primary) !important;
+  border-radius: 20rem !important;
+  color: var(--jk-primary);
+}
+
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link,.nav-tabs .nav-link:hover {
+  background-color: var(--jk-primary);
+  color: var(--jk-white);
+}
+
+
+.border-primary {
+  border-color: var(--jk-primary) !important;
+}
+
+.border-secondary {
+  border-color: var(--jk-secondary) !important;
+}
+
+.border-blue {
+  border-color: var(--jk-blue) !important;
+}
+
+iframe {
+  border: 0;
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}

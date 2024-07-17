@@ -1,0 +1,106 @@
+/* colors */
+
+.jk-color-primary{
+  color: var(--jk-primary) !important;
+}
+
+.jk-color-secondary{
+  color: var(--jk-secondary) !important;
+}
+
+.jk-color-hover-primary {
+  color: var(--jk-hover-primary) !important;
+}
+
+.jk-color-blue{
+  color: var(--jk-blue) !important;
+}
+
+.jk-color-white{
+  color: var(--jk-white) !important;
+}
+
+.jk-color-black{
+  color: var(--jk-black) !important;
+}
+
+.jk-color-gray-black{
+  color: var(--jk-gray-dark) !important;
+}
+
+.jk-color-privacy{
+  color: #252B36F2;
+}
+
+
+
+/* socials */
+
+.jk-color-linkedin{
+  color: var(--jk-linkedin) !important;
+}
+
+.jk-color-facebook{
+  color: var(--jk-facebook) !important;
+}
+
+
+
+/*//////////////////////////////////////*/
+
+
+/* Backgrounds*/
+
+.jk-bg-primary{
+  background-color: var(--jk-primary) !important;
+}
+
+.jk-bg-secondary{
+  background-color: var(--jk-secondary) !important;
+}
+
+.jk-bg-black{
+  background-color: var(--jk-black) !important;
+}
+
+.jk-bg-white{
+  background-color: var(--jk-white) !important;
+}
+
+.jk-bg-primary-light{
+  background: var(--jk-primary-light);
+}
+
+
+
+/*socials backgrounds*/
+
+.jk-bg-linkedin{
+  background-color: var(--jk-linkedin) !important;
+}
+
+.jk-bg-facebook{
+  background-color: var(--jk-facebook) !important;
+}
+
+.jk-bg-twitter{
+  background-color: var(--jk-twitter) !important;
+}
+
+.jk-bg-whatsapp{
+  background-color: var(--jk-whatsapp) !important;
+}
+
+
+/* backgrounds gradients*/
+
+.jk-bg-primary-gradient{
+/*  background: linear-gradient(90deg, #002D62 0.53%, #3B5574 124.84%, rgba(0, 0, 0, 0) 165.29%, #6B7683 165.31%, rgba(139, 140, 141, 0.35) 165.33%),
+linear-gradient(0deg, rgba(0, 0, 0, 0.27), rgba(0, 0, 0, 0.27));*/
+  background: var(--jk-primary-gradient);
+}
+
+
+
+
+
